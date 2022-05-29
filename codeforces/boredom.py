@@ -1,0 +1,1 @@
+print('%d %s, %d %s' % (6, 'bananas', 10, 'lemons'))
